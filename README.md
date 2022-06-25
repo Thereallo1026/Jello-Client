@@ -1,2 +1,2 @@
 # Jello Client
- Sigma better than FDP Client
+Source Code archive for Jello Client
